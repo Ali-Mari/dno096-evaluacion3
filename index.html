@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Alicia Silva</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="style.css" rel="stylesheet" />
+
+    </head>
+    <body class="text-bg-warning bg-opacity-10">
+         <div class="collapse text-bg-warning bg-opacity-75" id="navbarHeader">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-md-7 py-4">
+                        <h4 class="text-white">Sobre May</h4>  
+                            <p class="text-white">May_Illustration es una ilustradora de comida y diseñadora gráfica en Japón. Sus obras transmiten delicias para todo público de diferentes gustos y todas ellas las realizan a mano con pinturas acrílicas con una textura suave y detallada. Ha realizado diseños para restaurantes y fabricantes de alimentos con sus ilustraciones, como menú, letreros, pancartas, volantes, paquetes e imágenes para publicaciones. Y realizó una exposición de todas sus obras el año 2024. Síguela para ver más. Este es un repositorio externo para presentar a los artistas conocidos en Japón y su colección de obras más vistas en sus redes sociales.</p>  
+                    </div>
+                    <div class="col-sm-4 offset-md-1 py-4">
+                        <h4 class="text-white">Contactos</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.instagram.com/may_illustration/" target="_blank" class="text-white">Síguela en Instagram</a></li>
+                            <li><a href="https://x.com/may_illust5" target="_blank" class="text-white">Síguela en Twitter</a></li>
+                            <li><a href="https://www.youtube.com/channel/UCVsLOsgW2ogH-UD-ZL3hBBA" target="_blank" class="text-white">Síguela en Youtube</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar navbar-dark bg-warning shadow-sm">
+            <div class="container">
+                <a href="#" class="navbar-brand d-flex align-items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-brush" viewBox="0 0 16 16">
+                    <path d="M15.825.12a.5.5 0 0 1 .132.584c-1.53 3.43-4.743 8.17-7.095 10.64a6.1 6.1 0 0 1-2.373 1.534c-.018.227-.06.538-.16.868-.201.659-.667 1.479-1.708 1.74a8.1 8.1 0 0 1-3.078.132 4 4 0 0 1-.562-.135 1.4 1.4 0 0 1-.466-.247.7.7 0 0 1-.204-.288.62.62 0 0 1 .004-.443c.095-.245.316-.38.461-.452.394-.197.625-.453.867-.826.095-.144.184-.297.287-.472l.117-.198c.151-.255.326-.54.546-.848.528-.739 1.201-.925 1.746-.896q.19.012.348.048c.062-.172.142-.38.238-.608.261-.619.658-1.419 1.187-2.069 2.176-2.67 6.18-6.206 9.117-8.104a.5.5 0 0 1 .596.04M4.705 11.912a1.2 1.2 0 0 0-.419-.1c-.246-.013-.573.05-.879.479-.197.275-.355.532-.5.777l-.105.177c-.106.181-.213.362-.32.528a3.4 3.4 0 0 1-.76.861c.69.112 1.736.111 2.657-.12.559-.139.843-.569.993-1.06a3 3 0 0 0 .126-.75zm1.44.026c.12-.04.277-.1.458-.183a5.1 5.1 0 0 0 1.535-1.1c1.9-1.996 4.412-5.57 6.052-8.631-2.59 1.927-5.566 4.66-7.302 6.792-.442.543-.795 1.243-1.042 1.826-.121.288-.214.54-.275.72v.001l.575.575zm-4.973 3.04.007-.005zm3.582-3.043.002.001h-.002z"/>
+                    </svg>
+                    <strong>Japón e Ilustración</strong>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </div>
+
+        <header class="container">
+            <h1 class="display-1 my-3"></h1>
+            <select class="form-select my-3">
+                <option value="todos">Ilustraciones</option>
+                <option value="dulce">Ilustraciones Dulces</option>
+                <option value="salado">Ilustraciones Salados</option>
+                <option value="temporada">Ilustraciones de Temporada</option>
+            </select>
+
+        </header>
+
+        <div class="container text-center">
+            <main class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-6 g-2 g-lg-3"></main> 
+        </div>
+        
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+        <script>
+            //unas variables que no varían, que son constantes:
+
+            const nombre = "MAY_ILLUSTRATION";
+
+            const autoria = document.querySelector("h1");
+
+            autoria.innerHTML = nombre;
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/Ali-Mari/dno096-evaluacion3/refs/heads/main/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+                data.forEach((d, i) => (principal.innerHTML += 
+                    `<div class="${d.signo} col">
+                        <div class="card shadow-sm">
+                            <img src="${d.foto}" class="card-img-top" alt="${d.fecha}">
+                                <div class="card-body">
+                                <p class="card-text">
+                                     <a href="single.html?data=${i}" class="link-success
+                                        link-offset-2 link-offset-3-hover 
+                                        link-underline link-underline-opacity-0
+                                        link-underline-opacity-75-hover stretched-link">${d.nombre}</a>
+                                </p>
+                                <div class="d-flex justify-content-around align-items-center">
+                                    <small class="text-body-secondary">${d.signo}</small>
+                                    <small class="text-body-secondary">${d.fecha}</small>
+                                </div>
+                                </div>     
+                            </div>
+                    </div>`));
+
+                seleccionables();
+            }
+
+            astros().catch((error) => console.error(error));
+
+            //lo que sigue es una función que ejecuto dentro de astros()
+
+            var valor;
+
+            function seleccionables() {
+                seleccion.addEventListener("change", (e) => {
+                    document.querySelectorAll(".col").forEach((t) => t.classList.add("d-none"));
+                    valor = e.target.value;
+                    if (valor !== "todos") {
+                        document.querySelectorAll(`.${valor}`).forEach((t) => t.classList.remove("d-none"));
+                    } else {
+                        document.querySelectorAll("div").forEach((t) => t.classList.remove("d-none"));
+                    }
+                });
+            }
+        </script>
+    </body>
+</html>
