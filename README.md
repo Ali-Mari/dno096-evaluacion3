@@ -1,1 +1,13 @@
 # dno096-evaluacion3
+![burger-1](https://github.com/user-attachments/assets/fc56f237-2590-4ec5-9802-a15bdc169a56)
+![chocolate-1](https://github.com/user-attachments/assets/c75c983e-be1e-41df-a795-8054e199e61e)
+![cupcake-1](https://github.com/user-attachments/assets/b6b49d4d-e3fb-4e6f-bace-d563537f5b8d)
+![frutilla-1](https://github.com/user-attachments/assets/b4646145-e5d0-4c51-9f16-50de146efbd5)
+![macha-1](https://github.com/user-attachments/assets/8a97d7c0-1da1-4bb6-abfd-1ba93c9d2f77)
+![mint-chocolate-1](https://github.com/user-attachments/assets/dde68ff9-8aac-4d14-849f-5cf0e950d013)
+![onigiri-1](https://github.com/user-attachments/assets/c52c50ab-abe7-4579-9ce2-ddb33db68d8a)
+![otono-1](https://github.com/user-attachments/assets/6058ce54-4c26-44ea-8b87-e801da7517be)
+![panes-1](https://github.com/user-attachments/assets/a42891cc-0257-4768-bb0c-638b906c0f0a)
+![sakura-1](https://github.com/user-attachments/assets/113d311f-f016-4f03-b215-24d2fc5bb09c)
+![sandwich-1](https://github.com/user-attachments/assets/828ae22e-77f9-47ce-bef2-14eb119203da)
+![san-valentin-1](https://github.com/user-attachments/assets/295ce665-10d1-4c91-84f7-de16fea5e098)
