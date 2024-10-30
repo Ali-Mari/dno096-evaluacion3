@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Chocolate Mint",
+        "descripcion": "Una colección de ilustraciones sobre diferentes tipos de dulce que tiene como ingrediente chocolate con menta. Dibujada a mano con pintura acrílica.",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/dde68ff9-8aac-4d14-849f-5cf0e950d013",
+        "fotos": ["mint-chocolate-2.png","mint-chocolate-3.png","mint-chocolate-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Cupcakes",
+        "descripcion": "Una colección de ilustraciones sobre diferentes tipos de cupcakes y cremas. Dibujada a mano con pintura acrílica.",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/b6b49d4d-e3fb-4e6f-bace-d563537f5b8d",
+        "fotos": ["cupcake-2.png","cupcake-3.png","cupcake-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Sweet Autumn",
+        "descripcion": "Una colección de ilustraciones de diferentes comidas que realizan en Japón cuando llega la temporada de otoño, incluyendo la temporada de Halloween. Dibujada a mano con pintura acrílica.",
+        "fecha": "2024",
+        "signo": "temporada",
+        "foto": "https://github.com/user-attachments/assets/6058ce54-4c26-44ea-8b87-e801da7517be",
+        "fotos": ["otono-2.png","otono-3.png","otono-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Burger",
+        "descripcion": "Ilustraciones de una hamburguesa, mostrando cada uno de los ingredientes que las componen y sus acompañamientos. Dibujada a mano con pintura acrílica.",
+        "fecha": "2024",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/fc56f237-2590-4ec5-9802-a15bdc169a56",
+        "fotos": ["burger-2.png","burger-3.png","burger-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Matcha",
+        "descripcion": "Una colección de ilustraciones sobre diferentes tipos de dulce que tiene como ingrediente principal la matcha. Dibujada a mano con pintura acrílica.",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/8a97d7c0-1da1-4bb6-abfd-1ba93c9d2f77",
+        "fotos": ["macha-2.png","macha-3.png","macha-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Sakura Sweets",
+        "descripcion": "Ilustraciones de ciertos dulces en Japón cuando llega la temporada de primavera. La época que florecen las conocidad flores de cerezo (Sakura). Dibujada a mano con pintura acrílica.",
+        "fecha": "2024",
+        "signo": "temporada",
+        "foto": "https://github.com/user-attachments/assets/113d311f-f016-4f03-b215-24d2fc5bb09c",
+        "fotos": ["sakura-2.png","sakura-3.png","sakura-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Chocolate",
+        "descripcion": "Una colección de ilustraciones sobre diferentes tipos de dulce que tienen como ingrediente principal el chocolate. Dibujada a mano con pintura acrílica.",
+        "fecha": "2023",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/c75c983e-be1e-41df-a795-8054e199e61e",
+        "fotos": ["chocolate-2.png","chocolate-3.png","chocolate-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Strawberry",
+        "descripcion": "Una colección de ilustraciones sobre diferentes tipos de pasteles usando como ingrediente las fresas. Dibujada a mano con pintura acrílica.",
+        "fecha": "2023",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/b4646145-e5d0-4c51-9f16-50de146efbd5",
+        "fotos": ["frutilla-2.png","frutilla-3.png","frutilla-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Sandwiches",
+        "descripcion": "Ilustraciones de muchos tipos de sandwiches con diferentes rellenos, tanto salado como dulce. Dibujada a mano con pintura acrílica.",
+        "fecha": "2022",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/828ae22e-77f9-47ce-bef2-14eb119203da",
+        "fotos": ["sandwich-2.png","sandwich-3.png","sandwich-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Valentine´s Day",
+        "descripcion": "Ilustración de un conjunto de bombones de chocolates para el día de San Valentín. Dibujada a mano con pintura acrílica.",
+        "fecha": "2021",
+        "signo": "temporada",
+        "foto": "https://github.com/user-attachments/assets/295ce665-10d1-4c91-84f7-de16fea5e098",
+        "fotos": ["san-valentin-2.png","san-valentin-3.png","san-valentin-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Onigiri",
+        "descripcion": "Ilustraciones de diferentes tipos de onigiris, una de las comidas más conocidas en Japón. Dibujada a mano con pintura acrílica.",
+        "fecha": "2021",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/c52c50ab-abe7-4579-9ce2-ddb33db68d8a",
+        "fotos": ["onigiri-2.png","onigiri-3.png","onigiri-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Bread Toast",
+        "descripcion": "Una colección de ilustraciones sobre diferentes tipos de panes y con qué ingrediente extra comerlos. Dibujada a mano con pintura acrílica.",
+        "fecha": "2021",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/a42891cc-0257-4768-bb0c-638b906c0f0a",
+        "fotos": ["panes-2.png","panes-3.png","panes-4.png"],
+        "github": "https://github.com/ali-mari"
+    }
+]
+
